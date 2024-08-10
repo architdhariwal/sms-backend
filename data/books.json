@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Law",
+    "isbn": "9780060935467",
+    "publicationYear": 1960,
+    "genre": "Fiction",
+    "copiesAvailable": "7"
+  },
+  {
+    "id": "3",
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "isbn": "9780743273565",
+    "publicationYear": 1925,
+    "genre": "Classic",
+    "copiesAvailable": 2
+  },
+  {
+    "id": "23ebca8a-02ae-420f-8ca5-c5130c672a49",
+    "title": "thomas book",
+    "author": "kalki",
+    "isbn": "87768680",
+    "publicationYear": "2022",
+    "genre": "mythology",
+    "copiesAvailable": "7"
+  },
+  {
+    "id": "4c04106e-cb26-473d-b40d-0dbeaf5d98bc",
+    "title": "qwerty",
+    "author": "test",
+    "isbn": "3789",
+    "publicationYear": "2022",
+    "genre": "hindi",
+    "copiesAvailable": "34"
+  }
+]

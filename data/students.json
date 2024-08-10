@@ -1,0 +1,24 @@
+[
+  {
+    "id": "3",
+    "name": "Alice Johnson",
+    "admissionNumber": "A345678",
+    "class": "9",
+    "section": "C",
+    "gender": "Female",
+    "mobileNumber": "+1122334455",
+    "address": "789 Pine Road, Springfield",
+    "password": "$2a$12$.aNYOvCbhgiRp9pn2zf56e6h4oPqWI5asmFmsJnFhqjB6yHbvuTVu"
+  },
+  {
+    "id": "4baf0186-a5b9-41b0-a3b0-2c3ce52338ef",
+    "name": "Archit",
+    "admissionNumber": "A112",
+    "class": "12",
+    "section": "A",
+    "gender": "Male",
+    "mobileNumber": "7699797987",
+    "address": "Haridwar",
+    "password": "$2a$12$kx80r1pV93y053KdJr/kteIAMWbXWQ9hJgNt8z9etQQz8xybmQeem"
+  }
+]
